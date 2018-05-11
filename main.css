@@ -1,0 +1,29 @@
+body {
+	background-image: url('background.jpg');
+}
+
+#wrapper {
+	width: 80%;
+	background-color: #e6e6ff;
+	margin: 0 auto;
+
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	margin: 20px 20px;
+
+}
